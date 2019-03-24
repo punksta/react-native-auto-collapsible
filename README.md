@@ -3,6 +3,8 @@ React-native view which automatically collapses or expands when content changes.
 
 ## purpose
 Useful for lists of items with dynamic contents to avoid jumping on view height change
+https://snack.expo.io/Sy0l5vruE - demo
+
 
 ## usage
 1) install `npm install react-native-auto-collapsible --save` / `yarn add react-native-auto-collapsible`

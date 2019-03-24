@@ -10,7 +10,7 @@
     "react-native",
     "collapsible"
   ],
-  "repository": ,
+  "repository": "https://github.com/punksta/react-native-auto-collapsible",
   "peerDependencies": {
     "react-native": ">=0.55.0 <0.60.0"
   },
