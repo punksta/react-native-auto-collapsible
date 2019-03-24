@@ -1,8 +1,11 @@
 # react-native-auto-collapsible
-React-native view which automatically collapses or expands when content changes.
+React-native view which automatically collapses or expands when content changes height.
+
+<img src="https://raw.githubusercontent.com/punksta/react-native-auto-collapsible/master/example.gif" height="400" />
 
 ## purpose
 Useful for lists of items with dynamic contents to avoid jumping on view height change
+
 https://snack.expo.io/Sy0l5vruE - demo
 
 
