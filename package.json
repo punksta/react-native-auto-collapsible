@@ -1,0 +1,19 @@
+{
+  "name": "react-native-auto-collapsible",
+  "version": "1.0.0",
+  "description": "React-native view which automatically collapses or expands on content size changes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "collapsible"
+  ],
+  "repository": ,
+  "peerDependencies": {
+    "react-native": ">=0.55.0 <0.60.0"
+  },
+  "author": "punksta",
+  "license": "MIT"
+}
